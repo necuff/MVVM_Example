@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PNp5uklc+iLQ8b1qdhXweOxKeqwo9HLmgV09pwYjZIOFn9WPdMlJ5eDA8TiW+jKh0Akh4lqOxpB4EDtkFNKRRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zaykov\\source\\repos\\MVVM_Example\\MVVM_Example\\MVVM_Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zaykov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
